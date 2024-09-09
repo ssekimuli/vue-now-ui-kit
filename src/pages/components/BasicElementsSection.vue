@@ -6,6 +6,7 @@
       <p class="category">Pick your style</p>
       <div class="row">
         <div class="col-md-10">
+          
           <n-button type="primary">Default</n-button>
           <n-button type="primary" round>Round</n-button>
           <n-button type="primary" round>
